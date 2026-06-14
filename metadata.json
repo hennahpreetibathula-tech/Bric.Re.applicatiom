@@ -1,0 +1,6 @@
+{
+  "name": "Bric.Re",
+  "description": "An Evidence-Based AI Research System that transforms unstructured documents into structured, confidence-scored intelligence with citation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
